@@ -1,4 +1,4 @@
-# Cozy-Book-Corner
+# Cozy Book Corner
 
 This will be a website for discovering books and talking about books.
 
