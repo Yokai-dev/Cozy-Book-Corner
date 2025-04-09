@@ -1,6 +1,6 @@
 # Cozy-Book-Corner
 
-This will be a website for discovering books, adding them to your collection list, wishlist, add the status to reading or plan to read, you name it.
+This will be a website for discovering books and talking about books.
 
 # 🚀 Features
 ✅Browse through a big database of books: novels, comics, manga, etc.  
